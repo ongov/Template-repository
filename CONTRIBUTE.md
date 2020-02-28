@@ -1,4 +1,4 @@
-#This is an example CONTRUBUTE.md file taken from the API Guidelines repo.
+# This is an example CONTRUBUTE.md file taken from the API Guidelines repo.
 
 # Contribution guidelines
 
