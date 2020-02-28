@@ -1,4 +1,4 @@
-# This is an example CONTRUBUTE.md file taken from the API Guidelines repo.
+[This is an example CONTRUBUTE.md file taken from the API Guidelines repo.](https://github.com/ongov/API-Guidelines/blob/develop/CONTRIBUTING.md)
 
 # Contribution guidelines
 
